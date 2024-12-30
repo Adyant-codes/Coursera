@@ -1,0 +1,36 @@
+#Dice { 
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 120px;
+    margin-top: 40px;
+    color:  rgb(117, 104, 230);
+}
+
+#Num { 
+    display: block;
+    text-align: center;
+    font-size: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    color:rgb(1, 6, 10); 
+}
+
+#Buttons {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.Buttons {
+    padding: 5px 20px;
+    font-size: 20px;
+    color: white;
+    border-radius: 60px;
+    background-color: #6a1b9a;
+    cursor: pointer;
+    transition: background-color 0.25s;
+    margin: 30px;
+}
+
+.Buttons:hover {
+    background-color: #a0458e;
+}
