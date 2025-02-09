@@ -8,3 +8,10 @@ body {
     border: 0;
     height: 130px; /* Increase the height of the navbar */
 }
+
+#logo-img {
+    background: url('Logo.png');
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0px;
+}
