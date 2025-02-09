@@ -3,15 +3,15 @@ body {
 }
 
 #header-nav { 
-    background-color: #e26944; 
+    background-color: #ea772a; 
     border-radius: 0;
     border: 0;
-    height: 130px; /* Increase the height of the navbar */
 }
 
+
 #logo-img {
-    background: url('Logo.png');
-    width: 150px;
-    height: 150px;
-    margin: 10px 15px 10px 0px;
+    background: url('Logo.png') no-repeat center center;
+    background-size: contain;
+    width: 200px;             /* Set logo width to 190px */
+    height: 200px;            /* Set logo height to 190px */
 }
