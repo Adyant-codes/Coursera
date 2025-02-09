@@ -1,9 +1,10 @@
 body { 
-    background-color: rgb(183, 183, 183);
+    background-color: rgb(172, 163, 163);
 }
 
-header-nav { 
-    color: #e08026; 
+#header-nav { 
+    background-color: #e26944; 
     border-radius: 0;
     border: 0;
+    height: 130px; /* Increase the height of the navbar */
 }
